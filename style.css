@@ -1,0 +1,39 @@
+
+
+.img {
+    width: 705px;
+}
+.Headings {
+   
+  font-family: "Roboto Slab", serif;
+  font-size: 47px;
+ margin-bottom: 10px;
+  }
+  
+.hd2 {
+    margin-bottom: 50px;
+}
+.name {
+      font-family: "Roboto Slab", serif;
+  font-size: 35px;
+  font-weight: 300;
+  
+}
+p {
+    text-align: justify;
+    font-family: Noto Sans;
+    font-size: 40px;
+    font-weight: 400;    
+}
+
+.parabt {
+    margin-bottom: 70px;
+}
+.footer {
+    background-color: black;
+    height: 350px;
+    margin-right: -10px;
+    margin-left: -10px;
+    margin-bottom: -10px;
+    
+}
